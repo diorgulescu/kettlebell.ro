@@ -17,7 +17,7 @@ imaging:
   quality: 99
 
 params:
-  description: Cu și despre kettlebell-uri.
+  description: Cu și despre kettlebell-uri, sănătate, condiție fizică, etc.
   homeMetaContent: Cu și despre kettlebell-uri.
   footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [NameBox.ro](https://www.namebox.ro/).
   # For more date formats see https://gohugo.io/functions/format/
