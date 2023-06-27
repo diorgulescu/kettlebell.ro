@@ -4,7 +4,6 @@ defaultContentLanguage: ro
 title: Kettlebell.ro
 theme: cupper-hugo-theme
 googleAnalytics: UA-123456789-1
-disqusShortname: yourdiscussshortname
 enableGitInfo: true
 
 taxonomies:
@@ -47,14 +46,14 @@ menu:
     - name: Acasă
       url: /
       weight: 1
-    - name: Blog
+    - name: Articole
       url: /posts/
       weight: 2
     - name: Categorii
       url: /tags/
       weight: 3
     - name: Pâine
-      url: /about/
+      url: /paine/
       weight: 4
     - name: Miere
       url: /miere/
