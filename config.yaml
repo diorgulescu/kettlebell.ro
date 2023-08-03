@@ -46,8 +46,8 @@ menu:
     - name: Acasă
       url: /
       weight: 1
-    - name: Articole
-      url: /posts/
+    - name: Blog
+      url: /blog/
       weight: 2
     - name: Categorii
       url: /tags/
