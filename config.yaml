@@ -16,10 +16,10 @@ imaging:
   quality: 99
 
 params:
-  description: Despre kettlebell-uri, sănătate, condiție fizică, idei de antrenament la domiciliu și alte lucruri conexe.
+  description: Despre kettlebell, sănătate, condiție fizică, idei de antrenament la domiciliu și alte lucruri conexe.
   homeMetaContent: Cu și despre kettlebell-uri.
-  footer: Site creat cu [Hugo](https://gohugo.io/). Tema [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Găzduit pe [NameBox.ro](https://my.namebox.ro/aff.php?aff=505).
-  # For more date formats see https://gohugo.io/functions/format/
+  footer: Site creat cu [Hugo](https://gohugo.io/) | Tema [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme) | Găzduit cu drag pe [NameBox.ro](https://my.namebox.ro/aff.php?aff=505) |
+    # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Jan 2, 2006
   codePenUser: someUser
   katex: true
@@ -52,24 +52,27 @@ menu:
     - name: Blog
       url: /blog/
       weight: 3
-    - name: Categorii
-      url: /tags/
+    - name: Istorie
+      url: /istorie/
       weight: 4
+    - name: Antrenamente
+      url: /antrenamente/
+      weight: 5
     - name: Sala de acasă
       url: /sala-acasa/
-      weight: 5
+      weight: 6
     - name: Sala „portabilă”
       url: /sala-portabila/
-      weight: 6
+      weight: 7
     - name: Pâine
       url: /paine/
-      weight: 7
+      weight: 8
     - name: Miere
       url: /miere/
-      weight: 8
+      weight: 9
     - name: RSS
       url: /index.xml
-      weight: 9
+      weight: 10
 
 markup:
   defaultMarkdownHandler: goldmark
