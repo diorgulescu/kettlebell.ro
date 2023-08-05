@@ -4,8 +4,10 @@ date: 2023-05-24T16:21:44+03:00
 draft: false
 ---
 ## Bine ai venit!
-
-Dacă ai ajuns aici, înseamnă că ai căutat informații despre kettlebell-uri. Sau, poate vreun motor de căutare e responsabil pentru vizită, ceea ce e și mai interesant. Oricum ar fi, mă bucur că ești „prin zonă” și te invit să arunci o privire. Totuși, în caz că te grăbești, iată câteva repere rapide:
+<p align="center">
+<img src="/images/g214.svg" style="width:30%;"/> 
+</p>
+Dacă ai ajuns aici, înseamnă că ai căutat informații despre kettlebell-uri. În caz că te grăbești, iată câteva repere rapide:
 
 + **„Kettlebell”** este denumirea englezească a unor greutăți/gantere „cu mâner”. Probabil că anglofonii nu au fost prea deplasați asemănându-le cu un ceainic („kettle”), deoarece sunt destul de apropiate ca formă, dacă te uiți un pic mai atent. În limbile slavone, acestea sunt referite prin „gyria ()”, iar în română nu cred că li s-a găsit un cuvânt dedicat încă, cel englezesc fiind folosit extensiv (oare le-am putea numi „ghiulele”?).
 + **Lucrul cu kettlebell-ul** este situat la intersecția antrenamentelor de forță (*„strength training”*) cu cele de anduranță (*„endurance training”*), din simplul motiv că nu sunt folosite greutăți foarte mari (cum este cazul halterelor - fie ele în stil olimpic sau *powerlifting*) iar durata unui set ori a unui antrenament poate fi destul de mare. Practic, este un **sport ciclic** în care repeți anumite mișcări pe intervale mai mari de timp sau pentru un număr mai mare de repetări per set (lucru ce ar fi imposibil, spre exemplu, în powerlifting; repetarea continuă a unei genuflexiuni cu o bară încărcată în spate, vreme de câteva minute, ar fi calea sigură către un colaps general). Potrivit pentru orice vârstă sau condiție fizică, acasă ori în concediu (căci nu este o idee rea ca în portbagajul mașinii să înghesui, într-un colțișor, un kettlebell), la sală sau în sufragerie, în orice moment al zilei.

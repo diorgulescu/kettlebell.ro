@@ -16,7 +16,7 @@ imaging:
   quality: 99
 
 params:
-  description: Despre kettlebell, sănătate, condiție fizică, idei de antrenament la domiciliu și alte lucruri conexe.
+  description: Despre „sala” din mâna ta 
   homeMetaContent: Cu și despre kettlebell-uri.
   footer: Site creat cu [Hugo](https://gohugo.io/) | Tema [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme) | Găzduit cu drag pe [NameBox.ro](https://my.namebox.ro/aff.php?aff=505) |
     # For more date formats see https://gohugo.io/functions/format/
